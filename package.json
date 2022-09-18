@@ -1,0 +1,24 @@
+{
+  "name": "phase1-blog-project-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyjohn23/phase1-Blog-Project-JSON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyjohn23/phase1-Blog-Project-JSON/issues"
+  },
+  "homepage": "https://github.com/andyjohn23/phase1-Blog-Project-JSON#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

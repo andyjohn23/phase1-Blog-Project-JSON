@@ -35,6 +35,12 @@
       "body": "testing my sixth blog post",
       "likes": 0,
       "id": 6
+    },
+    {
+      "title": "testing7",
+      "body": "this is the seventh blog test.",
+      "likes": 0,
+      "id": 7
     }
   ],
   "comments": [
